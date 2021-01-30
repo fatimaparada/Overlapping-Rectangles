@@ -1,6 +1,5 @@
 /*
 Author: Fatima Parada-Taboada
-Net id: fnp170130
 Program overview: This program will determine whether a second rectangle overlaps or is inside of the first rectangle. */ 
 
 
